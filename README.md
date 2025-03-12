@@ -7,8 +7,8 @@
 - **Frontend**: React, React Native, Flutter
 - **Backend**: Node.js, Python
 - **Databases**: MongoDB, MySQL, PostgreSQL
-- **Cloud Services**: AWS (Amazon Web Services)
-- **Others**: HTML, CSS, JavaScript, TypeScript
+- **Cloud Services**: AWS (Amazon Web Services), Azure Devop
+- **Others**: HTML, CSS, JavaScript, TypeScript, LLM, Openai, langchain, Nextjs
 
 ## 🌟 What You'll Find in This Repository
 
